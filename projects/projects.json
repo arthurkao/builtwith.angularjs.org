@@ -3688,6 +3688,21 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Angular Drywall",
+      "thumb": "angular-drywall/thumb.png",
+      "desc": "A MEAN stack starter user management web application.",
+      "url": "http://angular-drywall.arthurkao.io",
+      "info": "http://arthurkao.github.io/angular-drywall",
+      "src": "https://github.com/arthurkao/angular-drywall",
+      "submitter": "arthurkao",
+      "submissionDate": "2015-05-04",
+      "tags": [
+        "MEAN", "NodeJS", "MongoDB", "RESTful",
+        "SASS", "Bootstrap", "Responsive",
+        "User Management", "CRUD", "Admin Panel", "Social Login"
+      ]
     }
 
   ]
